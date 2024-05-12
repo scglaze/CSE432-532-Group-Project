@@ -1,0 +1,50 @@
+{
+    "Logistic Regression": {
+        "Defensive Efficiency": 0.0259,
+        "Fielding Percentage": 0.0177,
+        "Win-Loss % (Pitching)": 0.6735,
+        "H9": -1.5383,
+        "HR9": -0.7312,
+        "BB9": -1.0292,
+        "SO9": 0.0312,
+        "SO/W": 1.0312,
+        "Runs Scored/Game": 1.8562,
+        "OBP": 0.0653
+    },
+    "Decision Tree": {
+        "Defensive Efficiency": 0.042,
+        "Fielding Percentage": 0.0663,
+        "Win-Loss % (Pitching)": 0.8007,
+        "H9": 0.0229,
+        "HR9": 0.0138,
+        "BB9": 0.0168,
+        "SO9": 0.0,
+        "SO/W": 0.0,
+        "Runs Scored/Game": 0.0,
+        "OBP": 0.0374
+    },
+    "Random Forest": {
+        "Defensive Efficiency": 0.0607,
+        "Fielding Percentage": 0.0552,
+        "Win-Loss % (Pitching)": 0.3556,
+        "H9": 0.0756,
+        "HR9": 0.0319,
+        "BB9": 0.0811,
+        "SO9": 0.0242,
+        "SO/W": 0.1455,
+        "Runs Scored/Game": 0.0986,
+        "OBP": 0.0717
+    },
+    "Gradient Boosting": {
+        "Defensive Efficiency": 0.09,
+        "Fielding Percentage": 0.0454,
+        "Win-Loss % (Pitching)": 0.7621,
+        "H9": 0.0014,
+        "HR9": 0.0109,
+        "BB9": 0.0229,
+        "SO9": 0.0068,
+        "SO/W": 0.0047,
+        "Runs Scored/Game": 0.016,
+        "OBP": 0.0399
+    }
+}
